@@ -470,7 +470,7 @@ ul.SomeWorkItem li {
     outline: none;
 }
 
-.AboutButton button:hover{a
+.AboutButton button:hover{
     background: linear-gradient( 45deg, #ececec00, black);
     box-shadow: 2px 1px 6px 2px #d0ffc7;
     color: rgb(165, 165, 165);
@@ -1085,7 +1085,7 @@ ul.SomeWorkItem li {
     outline: none;
 }
 
-.AboutButton button:hover{a
+.AboutButton button:hover{
     background: linear-gradient( 45deg, #ececec00, black);
     box-shadow: 2px 1px 6px 2px #d0ffc7;
     color: rgb(165, 165, 165);
